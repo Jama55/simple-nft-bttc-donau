@@ -13,7 +13,7 @@ Optional: [IPFS][IPFS]
 ## 🛠 App Configuration
 Open `Terminal` and build the project, please install node in advance
 ``` 
-git clone url simple-nft-example
+git clone https://github.com/Jama55/simple-nft-bttc-donau simple-nft-example
 ```
 
 ```
@@ -168,7 +168,7 @@ Go the chain explorer to view your transaction or follow the [**Original tutoria
 ## 🛠 配置应用
 打开第一个终端 (Terminal) 窗口构建项目，此过程需要 node，请提前安装
 ``` 
-git clone url simple-nft-example
+git clone https://github.com/Jama55/simple-nft-bttc-donau simple-nft-example
 ```
 
 ```
